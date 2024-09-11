@@ -1,4 +1,4 @@
-nombre='Alejandro'
+nombre='Rodolfo Alejandro'
 apellido='Rolón'
 saludo='Hola'
 despedida="Adios"
